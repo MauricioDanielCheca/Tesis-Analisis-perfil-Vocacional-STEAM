@@ -1,7 +1,7 @@
 {
   "type": "service_account",
   "project_id": "fase-obtain-osemn",
-  "private_key_id": "0805730c2573ed883f47c6ae9d9c00f8b48f723a",
+  "private_key_id": "SE CREA SU PROPIA ID DE LLAVE PRIVADA PARA ESTE PROYECTO",
   "private_key": "-----BEGIN PRIVATE KEY-----DEBES CREAR TUS PROPIAS CREDENCIALES DE GOOGLE PARA PODER USAR EN ESTE PROYECTO PROYECTO-----END PRIVATE KEY-----\n",
   "client_email": "GOOGLE CREA UN EMAIL PARA ESTE PROYECTO",
   "client_id": "GOOGLE CREA UN ID PARA ESTE PROYECTO",
