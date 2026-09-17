@@ -2,12 +2,12 @@
   "type": "service_account",
   "project_id": "fase-obtain-osemn",
   "private_key_id": "0805730c2573ed883f47c6ae9d9c00f8b48f723a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDlsnatYJP4kVR\n5Rd86zffDP9Wq5JBH455x4nXIMvpOR+rBkDFLEsF/lu73N96x0Sz17uMeHvvRkXZ\ne3EhvDqYBYschP8ya0SNqo/834EKfQ7rPei2rpBrYs/J/VHWp+8hV6Qdjcb8U0+z\nWe3dpv9aJJTaFRYA3lNHgfqaF5l63YZ26sb7zp8V0xVfYP4mkBfKS0MT0AjYneh2\nUrT3OSm+PKBMNoIel4ZF+powflLUsaHLjt2XUpLR4ZOkRY9OFzAu25cp1PvJfRpi\nSV+Tvxprqu0jTfhUQOe8BginDshERI9/sMEx3hFqsUNEgq8FAceeR0JdAghPIXSs\nhhRY3O9zAgMBAAECggEAXAdUtgxmotjIHicJnLT+hnySnkC/YdYLz2Akiu07FONU\nc7/O9ReIu2q51hSwsJAXUvmknQ1J30V080ZibmmnNkWRdZtcimgviurgsi6mBH3g\naa6pE1/iwyxssdF4UuSUn18h8Of3Y1196Fldk0gS6WLCCTUXs9PoYoKVnDCTflvv\nzNEfBScI0n9YSRCEAY18Gr5i9/Gs5VelYrVzw2BdC3GVKgf25p3MdG3exnmu+9oL\n7Sqc1750Bi+O86z5hV7KCsRnsAATQz0kCHsMKzZtEDLkTZzuOG55+WHVAr78le9k\nVXPpPel1i8vPZNuRmQS+Wa+dZEWXwP8vVDo4NPfaAQKBgQDnBAjZQzfGNIPg2Cu5\neIFso8qtA25IaH25BxW3Knylb8PEmHt+wVTF3VO7jkpqOjrvJpgsQLjcAZ05lF17\n67Ij8iNM25BRmYcpTGQX7tNxTGfxfFUDAXqEICXFvgZbXr1+0WEX5vgbaWF4X7PL\nsTOuF6hEJ9+csnCzoLHRmMpBcwKBgQDYvethsQR7TBg+nZut58FW9I3lfTwImPdh\nOvAcw07/3VRLxI6rXCA6Tp9yNFUP+G+rAlJfxyeLexsemSMBOKAjDvolIo6KcD80\nDBg5EXMpQHgsRrCZyt0dvu+0JZldV/5iqsfmR4jMRhTNW6hiZy7TXhVbIZAe7Ejx\n7rBydZ8aAQKBgQDDmM3pLpmNry8t87npupdSpcfX/3yjwB0ayV3gjQ+mf1/xF+4Q\nH58oPMJFni9xi8YUcMgNR+t9E7zMYMtaPfDBsKWk0I58GJKxK+Xfwa2zUy767vuH\npPvX3OQ+bisxt6CYPK2JsFzH0MzfP6CayXlpYMxukJgrM4ZrAJcuUMCG8wKBgD/D\nH4wN15OuPzOsijAPDgHW0CfDP/YHij9AZ4MOsh7zrejcWlxvLcv5dU7TtnKMU82r\nUTB8FlYiUUgfJP0m+3VU4qIqGGUBwJY/OKERUR/Bp5je8vVLiOFHWp1UslmTmXLN\nayGDyerOczA21sKcOFpWQ1Ib/ZobSRpjbeU+VSABAoGBALIwW0zW5USKsSq9Iwln\nDq2q8roxuiZqZ7A1eKZDFHruQltyiww+nXPfvjsEOiDFZlLfMGzZIIotNs8C1iXt\n5ty7AjFhCaJaaMUyJEsBNlFL01LHaxEbPSenBAO2pQ/bVc6/gV1iXOtiuX+7nFBM\nxWCVlRw19x+3Zrlwc22Dv2H8\n-----END PRIVATE KEY-----\n",
-  "client_email": "tesis-obtain-osemn@fase-obtain-osemn.iam.gserviceaccount.com",
-  "client_id": "100738004692338346470",
+  "private_key": "-----BEGIN PRIVATE KEY-----DEBES CREAR TUS PROPIAS CREDENCIALES DE GOOGLE PARA PODER USAR EN ESTE PROYECTO PROYECTO-----END PRIVATE KEY-----\n",
+  "client_email": "GOOGLE CREA UN EMAIL PARA ESTE PROYECTO",
+  "client_id": "GOOGLE CREA UN ID PARA ESTE PROYECTO",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tesis-obtain-osemn%40fase-obtain-osemn.iam.gserviceaccount.com",
+  "client_x509_cert_url": "GOOGLE CREA UNA URL PARA EL CERTIFICADO DEL CLIENTE",
   "universe_domain": "googleapis.com"
 }
