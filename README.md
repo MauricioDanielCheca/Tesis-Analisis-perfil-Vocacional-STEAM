@@ -1,3 +1,4 @@
+<img width="1152" height="648" alt="Análisis del Perfil Vocacional para Carreras STEAM en Estudiantes de Bachillerato" src="https://github.com/user-attachments/assets/42ecb1bf-c4bd-4c3b-9d45-ca194cc0580e" />
 
 # Análisis del Perfil Vocacional para Carreras STEAM en Estudiantes de Bachillerato
 
